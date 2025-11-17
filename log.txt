@@ -1,0 +1,3 @@
+22f3f16 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from TheAmazingDokir/task-1-1
+af2467a (origin/task-1-1, task-1-1) Task 1.1
+d33d1f0 Initial commit
