@@ -1,4 +1,5 @@
-d718622 (HEAD -> main) Task 1.2
+62077ed (HEAD -> main) Task 2.1
+d718622 Task 1.2
 22f3f16 (origin/main, origin/HEAD) Merge pull request #1 from TheAmazingDokir/task-1-1
 af2467a (origin/task-1-1, task-1-1) Task 1.1
 d33d1f0 Initial commit
